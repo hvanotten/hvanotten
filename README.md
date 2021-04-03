@@ -1,10 +1,9 @@
 ### Hi there 👋
-
-
-![Hvanotten's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvanotten&count_private=true)
-
+![Hillary's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvanotten&count_private=true&theme=tokyonight&count_private=true)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvanotten&layout=compact)](https://github.com/hvanotten/github-readme-stats)
 <!--
 **hvanotten/hvanotten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
