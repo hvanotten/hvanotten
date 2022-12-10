@@ -1,7 +1,7 @@
 ### Hi there 👋 
 🔭 I’m currently building things in React. I am a passionate problem solver with experience in JavaScript, Node, React, and Redux. I enjoy using my passion for helping others, attention to detail to help make things that make a difference. When I'm not coding I love to cook, read, play music or video games. 
 
-
+ 
 
 📫 How to reach me:
 
