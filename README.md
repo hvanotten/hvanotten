@@ -43,6 +43,6 @@
  
  ### :fire: My Stats :
  
-![Hvanotten's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvanotten&show_icons=true&theme=transparent)
+[![Hillary's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvanotten)](https://github.com/anuraghazra/github-readme-stats)
 
 
